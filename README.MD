@@ -43,7 +43,7 @@ O vídeo abaixo ilustra o resultado final completo, incluindo a interação do u
 ## Importante
 - O widget deve funcionar em todas as versões dos sites que acompanham essa prova.
 - O widget não deve influenciar no CSS do site em que se encontra.
-- Você pode criar quantos arquivos .HTML, .JS e .CSS quiser, mas **não deve alterar** o conteúdo dos sites
+- Você pode criar quantos arquivos .HTML, .JS e .CSS quiser, mas **não deve alterar** o conteúdo dos sites (que se encontram nas pasta Site01, Site02, Site03)
 - A ideia de um widget é que este seja o mais leve possível. Dessa forma, evite utilizar frameworks externos (como React) e bibliotecas terceiras (como jQuery e Bootstrap)
 
 ## Como entregar
